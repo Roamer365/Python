@@ -1,0 +1,12 @@
+Thu, 23 Oct 2025 18:10:45 +0530	Executing the switch xterm
+Thu, 23 Oct 2025 18:10:51 +0530	Executing the switch gedit
+Thu, 23 Oct 2025 19:17:16 +0530	Executing the switch xterm
+Thu, 23 Oct 2025 19:17:36 +0530	Executing the switch firefox
+2025-10-23 19:17:42,263 ERROR stderr: Gtk-Message: 19:17:40.950: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+Thu, 23 Oct 2025 19:18:44 +0530	Executing the switch firefox
+2025-10-23 19:18:48,980 ERROR Gtk-Message: 19:18:47.279: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+Thu, 23 Oct 2025 19:19:11 +0530	Executing the switch firefox
+2025-10-23 19:19:14,636 ERROR Gtk-Message: 19:19:14.088: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
