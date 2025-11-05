@@ -10,3 +10,34 @@ Thu, 23 Oct 2025 19:18:44 +0530	Executing the switch firefox
 Thu, 23 Oct 2025 19:19:11 +0530	Executing the switch firefox
 2025-10-23 19:19:14,636 ERROR Gtk-Message: 19:19:14.088: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
 
+Wed, 05 Nov 2025 13:00:10 +0530	Executing the switch xterm
+Wed, 05 Nov 2025 13:00:17 +0530	Executing the switch nmcli
+2025-11-05 13:00:17,715 INFO DEVICE   TYPE      STATE                   CONNECTION         
+enp0s25  ethernet  connected               Wired connection 1 
+lo       loopback  connected (externally)  lo                 
+docker0  bridge    connected (externally)  docker0            
+
+Wed, 05 Nov 2025 13:00:38 +0530	Executing the switch nmcli
+2025-11-05 13:00:38,131 INFO DEVICE   TYPE      STATE                   CONNECTION         
+enp0s25  ethernet  connected               Wired connection 1 
+lo       loopback  connected (externally)  lo                 
+docker0  bridge    connected (externally)  docker0            
+
+Wed, 05 Nov 2025 13:01:32 +0530	Executing the switch nmcli
+2025-11-05 13:01:32,975 INFO DEVICE   TYPE      STATE                   CONNECTION         
+enp0s25  ethernet  connected               Wired connection 1 
+lo       loopback  connected (externally)  lo                 
+docker0  bridge    connected (externally)  docker0            
+
+Wed, 05 Nov 2025 13:01:50 +0530	Executing the switch nmcli
+2025-11-05 13:01:50,552 INFO DEVICE   TYPE      STATE                   CONNECTION         
+enp0s25  ethernet  connected               Wired connection 1 
+lo       loopback  connected (externally)  lo                 
+docker0  bridge    connected (externally)  docker0            
+
+Wed, 05 Nov 2025 15:27:15 +0530	Executing the switch nmcli
+2025-11-05 15:27:15,232 INFO DEVICE   TYPE      STATE                   CONNECTION         
+enp0s25  ethernet  connected               Wired connection 1 
+lo       loopback  connected (externally)  lo                 
+docker0  bridge    connected (externally)  docker0            
+
